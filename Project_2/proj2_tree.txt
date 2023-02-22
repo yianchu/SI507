@@ -1,0 +1,34 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+Is it gray?
+Internal node
+Does it have wheels?
+Internal node
+Does it only have four wheels?
+Leaf
+a car
+Internal node
+Does it appear in sky?
+Leaf
+an airplane
+Leaf
+a big truck
+Leaf
+an elephant
+Internal node
+Is it yellow?
+Leaf
+a tiger
+Leaf
+a bear
+Internal node
+Is it gray?
+Internal node
+Does it have two big ears?
+Leaf
+a mouse
+Leaf
+a rabbit
+Leaf
+an ant
